@@ -1,0 +1,11 @@
+OOOOOOOOOOOOOOO
+O    O   O    O
+O    . O O    U
+O    O   O    O
+O OOOO   OOOO O
+O    O O O    O
+O OOOO   OOOO O
+O    O O O    O
+O    .   .    O
+O    O   O    O
+OOOOOOOOOOOOOOO
